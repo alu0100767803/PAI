@@ -5,7 +5,8 @@
 Repositorio con todas las practicas realizadas en la asignatura de Programación de Aplicaciones Interactivas, en el curso 2015/16
 
 ## Autor
-Jorge Alonso Hernández  Correo: alu0100767803@ull.edu.es
+Jorge Alonso Hernández 
+Correo: alu0100767803@ull.edu.es
 Universidad de La Laguna, Escuela Superior de Ingeniería y tecnología, 3º Itinerario de computación
 
 #### Lenguaje de programación empleado
