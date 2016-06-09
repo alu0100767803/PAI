@@ -2,7 +2,7 @@
 
 ## Practicas de la asignatura
 
-Repositorio con todas las practicas realizadas en la asignatura de Programación de Aplicaciones Interactivas, realizadas en el curso 2015/16
+Repositorio con todas las practicas realizadas en la asignatura de Programación de Aplicaciones Interactivas, en el curso 2015/16
 
 ## Autor
 Jorge Alonso Hernández  
