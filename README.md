@@ -6,7 +6,9 @@ Repositorio con todas las practicas realizadas en la asignatura de Programación
 
 ## Autor
 Jorge Alonso Hernández 
+
 Correo: alu0100767803@ull.edu.es
+
 Universidad de La Laguna, Escuela Superior de Ingeniería y tecnología, 3º Itinerario de computación
 
 #### Lenguaje de programación empleado
